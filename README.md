@@ -1,4 +1,4 @@
-# 📝 To-Do List CLI  
+# 📝 ARSEC To-Do List
 
 A simple yet powerful command-line to-do list application built with Python. Organize your tasks efficiently with this lightweight tool!  
 ---
