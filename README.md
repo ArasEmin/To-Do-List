@@ -27,17 +27,23 @@ A simple yet powerful command-line to-do list application built with Python. Org
 
 Add a task:
 
-  Choose an option (1-4): 1  
+  1. Choose an option (1-4): 
   Task title: Buy groceries  
   Task description (optional): Milk, eggs, and bread  
   Complete a task:
 
-Choose an option (1-4): 2  
+2. Choose an option (1-4): 
   Tasks:  
     0. ✗ Buy groceries: Milk, eggs, and bread  
     Enter task number to complete: 0  
     List tasks:
 
-Choose an option (1-4): 3  
+3. Choose an option (1-4):
   All Tasks:  
-    ✓ Buy groceries: Milk, eggs, and bread  
+    ✓ Buy groceries: Milk, eggs, and bread
+
+
+📂 Project Structure
+├── todo.py            # Main executable  
+├── tasks.py           # Task class and logic  
+└── utils.py           # Helper functions (menu, input)  
